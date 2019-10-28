@@ -25,7 +25,6 @@ class monkeys{
 }
 
 
-
 var monkeyList= []
 
 monkeyList[0] = new monkeys("monkey1", "white", "apple")
